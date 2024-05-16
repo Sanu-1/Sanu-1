@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sanu-1
+- I'm Sanu, a passionate learner and aspiring developer.
+- Welcome to my GitHub profile.
+- 👀 I’m interested in Hiking, Data Science, Machine learning
+- and Photography
+- 🌱 I’m currently learning Data science and machine learning
