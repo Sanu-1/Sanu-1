@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanu-1
 - I'm Sanu, a passionate learner and aspiring developer.
-- Welcome to my GitHub profile.
-- 👀 I’m interested in Hiking, Data Science, Machine learning
-- and Photography
-- 🌱 I’m currently learning Data science and machine learning
+- Welcome to my GitHub.
+- I am a dedicated and result driven professional with over 3 years experience in sales. During my tenure i  honed my skills in sales,customer relationship management and
+- team collaboration.Currently i am expanding my expertiese by pursing a course in data science and machine learning. With a background in sales and passion for
+- problem solving i aim to leverage data driven insights to drive bussiness decision and create innovative solutions 
